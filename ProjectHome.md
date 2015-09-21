@@ -1,0 +1,1 @@
+The beautiful quadcopter, also the beautiful hardware & software
